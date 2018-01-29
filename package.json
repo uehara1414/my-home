@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/uehara1414/my-home/issues"
   },
-  "homepage": "https://github.com/uehara1414/my-home#readme"
+  "homepage": "https://github.com/uehara1414/my-home#readme",
+  "dependencies": {
+    "google-home-notifier": "^1.2.0"
+  }
 }
