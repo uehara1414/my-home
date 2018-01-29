@@ -1,0 +1,19 @@
+{
+  "name": "my-home",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uehara1414/my-home.git"
+  },
+  "author": "uehara1414",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uehara1414/my-home/issues"
+  },
+  "homepage": "https://github.com/uehara1414/my-home#readme"
+}
