@@ -20,7 +20,7 @@ http.createServer(function (req, res) {
 function speak(text) {
     const googlehome = require('google-home-notifier');
     googlehome.device(GOOGLE_HOME_NAME, GOOGLE_HOME_LANG);
-    googlehome.ip(GOOGLE_HOME_IP);
+    googlehome.ip(GOOGLE_HOME_IP, GOOGLE_HOME_LANG);
 
     googlehome.notify(text, (res) => {
         console.log(res);

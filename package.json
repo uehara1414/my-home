@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/uehara1414/my-home#readme",
   "dependencies": {
-    "google-home-notifier": "^1.2.0"
+    "google-home-notifier": "https://github.com/kei-s/google-home-notifier/tarball/update-google-tts-api"
   }
 }
